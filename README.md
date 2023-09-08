@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jrenato
 - 👀 I’m interested in GameDev
-- 🌱 I’m currently learning Unreal Engine C++
+- 🌱 I’m currently learning Unreal Engine C++ and Godot
 - 💞️ I’m looking to collaborate on GameDev
 - 📫 How to reach me renato@karvalho.com.br
 
